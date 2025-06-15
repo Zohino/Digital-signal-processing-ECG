@@ -1,0 +1,11 @@
+[project]
+name = "pzs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.0",
+    "typing>=3.10.0.0",
+    "wfdb>=4.3.0",
+]
